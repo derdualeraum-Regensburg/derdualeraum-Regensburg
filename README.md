@@ -1,15 +1,16 @@
 # Hi, I'm Thomas 👋
 
-I'm an **AI Lead in semiconductor manufacturing**, working at the intersection of applied AI, production systems, and engineering.
+I'm an **AI Lead in semiconductor manufacturing**, working at the intersection of AI strategy, production systems, and engineering.
+
+I lead AI initiatives from **use-case selection and technical direction to production deployment and scaling** — while staying close enough to the technology to understand the systems we build.
 
 My main interests include:
 
-- **Manufacturing AI** — computer vision, anomaly detection, and process analytics
-- **MLOps & AI engineering** — turning prototypes into maintainable production solutions
+- **Manufacturing AI & digitalization** — identifying high-value use cases and bringing them into production
+- **MLOps & AI engineering** — building maintainable, scalable AI solutions
+- **Computer vision & process analytics** — applying AI to real manufacturing problems
 - **Generative AI** — practical tools for engineering and knowledge workflows
 - **Computational mathematics** — graph theory, Hamiltonian cycles, and reproducible computational research
-
-I still like building things myself — from Python research tools to mobile applications and AI prototypes.
 
 ---
 
