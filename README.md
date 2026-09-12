@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Thomas 👋
 
-<!--
-**derdualeraum-Regensburg/derdualeraum-Regensburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI Lead in semiconductor manufacturing**, working at the intersection of applied AI, production systems, and engineering.
 
-Here are some ideas to get you started:
+My main interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Manufacturing AI** — computer vision, anomaly detection, and process analytics
+- **MLOps & AI engineering** — turning prototypes into maintainable production solutions
+- **Generative AI** — practical tools for engineering and knowledge workflows
+- **Computational mathematics** — graph theory, Hamiltonian cycles, and reproducible computational research
+
+I still like building things myself — from Python research tools to mobile applications and AI prototypes.
+
+---
+
+📍 Regensburg, Germany  
+🔗 [LinkedIn](https://www.linkedin.com/in/thomas-bauer-458460177)
